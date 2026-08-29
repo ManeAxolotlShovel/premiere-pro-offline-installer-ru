@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Adobe Premiere Pro интерфейс" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_2023_screenshot.jpg" />
+<img width="2880" height="1620" alt="Adobe Premiere Pro интерфейс" src="https://raw.githubusercontent.com/ManeAxolotlShovel/premiere-pro-offline-installer-ru/main/premiere_screenshot.png" />
 </div>
 
 ---
